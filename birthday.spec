@@ -8,7 +8,7 @@ Vendor:		Andy Mortimer <andy.mortimer@zetnet.co.uk>
 Group:		Applications
 Source0:	%{name}-%{version}.tar.gz
 # Source0-md5:	d2ceb7ca58d998645a4bdc04d986139c
-#URL:		
+#URL:
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
