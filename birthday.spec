@@ -1,5 +1,5 @@
 Summary:	Display birthdays
-Summary(pl):	Wi¶wietlanie urodzin
+Summary(pl):	Wy¶wietlanie urodzin
 Name:		birthday
 Version:	1.5
 Release:	1
