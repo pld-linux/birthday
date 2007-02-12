@@ -1,5 +1,5 @@
 Summary:	Display birthdays
-Summary(pl):	Wy¶wietlanie urodzin
+Summary(pl.UTF-8):   WyÅ›wietlanie urodzin
 Name:		birthday
 Version:	1.5
 Release:	1
@@ -22,17 +22,17 @@ based on a config file (~/.birthdays) in the user's home directory.
 It can be included it in .profile, so user gets the list every time he
 logs on. See the manpage for more details of this format.
 
-%description -l pl
-To jest ma³y program napisany oryginalnie wtedy, gdy autor uczy³ siê
-C, jaki¶ czas temu. Od tamtego czasu zosta³ wiele razy przepisany od
-nowa, ostatni raz jakie¶ cztery czy piêæ lat temu - ale nadal
-pozostaje u¿yteczny wed³ug autora.
+%description -l pl.UTF-8
+To jest maÅ‚y program napisany oryginalnie wtedy, gdy autor uczyÅ‚ siÄ™
+C, jakiÅ› czas temu. Od tamtego czasu zostaÅ‚ wiele razy przepisany od
+nowa, ostatni raz jakieÅ› cztery czy piÄ™Ä‡ lat temu - ale nadal
+pozostaje uÅ¼yteczny wedÅ‚ug autora.
 
-Program wy¶wietla listê zdarzeñ, które maj± nast±piæ w najbli¿szej
-przysz³o¶ci, w oparciu o plik konfiguracyjny (~/.birthdays) w katalogu
-domowym u¿ytkownika. Program mo¿e byæ w³±czony do .profile, dziêki
-czemu u¿ytkownik widzi listê przy ka¿dym logowaniu. Szczegó³owy opis
-formatu pliku znajduje siê w manualu.
+Program wyÅ›wietla listÄ™ zdarzeÅ„, ktÃ³re majÄ… nastÄ…piÄ‡ w najbliÅ¼szej
+przyszÅ‚oÅ›ci, w oparciu o plik konfiguracyjny (~/.birthdays) w katalogu
+domowym uÅ¼ytkownika. Program moÅ¼e byÄ‡ wÅ‚Ä…czony do .profile, dziÄ™ki
+czemu uÅ¼ytkownik widzi listÄ™ przy kaÅ¼dym logowaniu. SzczegÃ³Å‚owy opis
+formatu pliku znajduje siÄ™ w manualu.
 
 %prep
 %setup  -q
